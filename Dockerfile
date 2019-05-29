@@ -1,6 +1,6 @@
 FROM alpine:3.9
 # 镜像的作者 
-LABEL maintainer="<469288592@qq.com>" \
+LABEL maintainer="<469288592@qq.com>"
   
 COPY resource /tmp/resource
 ### SET ENVIRONNEMENT
